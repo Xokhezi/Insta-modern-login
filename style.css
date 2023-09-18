@@ -74,6 +74,9 @@ body {
   padding: 10px;
   cursor: pointer;
 }
+.btn-switch:hover {
+  background: var(--color-blue);
+}
 .green {
   background: var(--color-green);
 }
